@@ -44,4 +44,4 @@ Self-taught front-end developer passionate about clean design and community-driv
 
 ## 📬 Contact
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/your-profile) or email at your-email@example.com.
+Feel free to reach out via [LinkedIn](www.linkedin.com/in/biswajit-roy-webdev) or email at your-biswajitr581@gmail.com.
